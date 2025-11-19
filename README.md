@@ -1,1 +1,2 @@
 # BIG-BASKET-ANALYSIS
+“This repository contains an in-depth Exploratory Data Analysis (EDA) of the Big Basket dataset. It includes data preprocessing, handling missing values, descriptive statistics, feature distributions, outlier detection, and visual insights on pricing, popularity, product categories, and customer preferences. The analysis helps understand market dynamics and supports data-driven decisions.”
